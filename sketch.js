@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(width, height);
+  createCanvas(windowWidth, windowHeight);
   background(255);
   colorMode(HSB,100);
 }
