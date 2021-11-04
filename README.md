@@ -1,2 +1,2 @@
-# www.carolienjanssens.ch
+# carolienjanssens
 Creating a website on github
